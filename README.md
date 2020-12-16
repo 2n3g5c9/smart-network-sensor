@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/smart-network-sensor/master/img/smart-network-sensor_banner.png" alt="smart-network-sensor">
+  <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/smart-network-sensor/master/img/banner.png" alt="smart-network-sensor">
 </div>
 
 <br />
@@ -11,7 +11,7 @@
 NIDS sensors can generate a tremendous number of alerts (most often false positives) that are hard to make sense of. Here are analyzed 3 public datasets, and resulted in a 96-98% compression ratio over the number of generated alerts.
 
 <div align="center">
-  <img width="650" src="https://raw.githubusercontent.com/2n3g5c9/smart-network-sensor/master/img/smart-network-sensor_example.png" alt="smart-network-sensor example">
+  <img width="650" src="https://raw.githubusercontent.com/2n3g5c9/smart-network-sensor/master/img/example.png" alt="smart-network-sensor example">
 </div>
 
 ## Getting started
