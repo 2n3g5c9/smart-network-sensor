@@ -5,7 +5,7 @@
 <p align="center">
     <a href="#%EF%B8%8F-foreword">Foreword</a>
     &nbsp; • &nbsp;
-    <a href="#-getting-started">Getting Started</a>
+    <a href="#-getting-started">Getting started</a>
     &nbsp; • &nbsp;
     <a href="#-techframeworks-used">Tech/frameworks used</a>
     &nbsp; • &nbsp;
@@ -28,7 +28,7 @@ NIDS sensors can generate a tremendous number of alerts (most often false positi
   <img width="650" src="https://raw.githubusercontent.com/2n3g5c9/smart-network-sensor/master/img/example.png" alt="smart-network-sensor example">
 </div>
 
-## 🏁 Getting Started
+## 🏁 Getting started
 
 ### Prerequisites
 
